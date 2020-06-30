@@ -79,3 +79,5 @@ docs/.static/api/
 db_data
 es_data
 gem_cache
+temp_auto_push.bat
+temp_interactive_push.bat
